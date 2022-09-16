@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains further information about the journaling assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

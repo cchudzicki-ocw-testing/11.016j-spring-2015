@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Anne Whiston Spirn shares insights about structuring\
+  \ and supporting students\u2019 development as writers in a communication-intensive\
+  \ course. "
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Time and the City
 uid: 4ee6ac18-c91d-3fca-1497-4ee532384de1
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 [https://vimeo.com/85058980](https://vimeo.com/85058980)
 
 **Instructor:** Anne Whiston Spirn
+

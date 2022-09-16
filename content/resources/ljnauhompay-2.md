@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-016j-the-once-and-future-city-spring-2015/bde161baab8e511a8fbdbbd163266899_LJNAUHOmpAY.vtt
+file: /media/courses/11-016j-the-once-and-future-city-spring-2015/bde161baab8e511a8fbdbbd163266899_LJNAUHOmpAY.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
